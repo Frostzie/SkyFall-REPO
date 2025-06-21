@@ -1,7 +1,7 @@
 {
   "Nature Elemental": {
     "maxShards": 96,
-    "statBoostName": "Grants +20 ❤ Health.",
+    "maxStatBoost": "Grants +20 ❤ Health.",
     "wayToObtain": [
       "Fusing Forest Category and Common with Uncommon or higher."
     ],
@@ -10,7 +10,7 @@
   },
   "Fog Elemental": {
     "maxShards": 96,
-    "statBoostName": "Grants +10 ✎ Intelligence.",
+    "maxStatBoost": "Grants +10 ✎ Intelligence.",
     "wayToObtain": [
       "Fusing Water Category and Common with Uncommon or higher."
     ],
@@ -19,7 +19,7 @@
   },
   "Light Elemental": {
     "maxShards": 96,
-    "statBoostName": "Grants +10 ❁ Strength.",
+    "maxStatBoost": "Grants +10 ❁ Strength.",
     "wayToObtain": [
       "Fusing Combat Category and Common with Uncommon or higher."
     ],
@@ -28,7 +28,7 @@
   },
   "Nocturnal Animal": {
     "maxShards": 96,
-    "statBoostName": "Grants +10 ∮ Sweep during the night.",
+    "maxStatBoost": "Grants +10 ∮ Sweep during the night.",
     "wayToObtain": [
       "Catch with Lasso.",
       "Place Traps in Galatea. (On Land).",
@@ -39,7 +39,7 @@
   },
   "Cheapstake": {
     "maxShards": 96,
-    "statBoostName": "Gain +10% more Coins from fishing treasures.",
+    "maxStatBoost": "Gain +10% more Coins from fishing treasures.",
     "wayToObtain": [
       "Place Traps in Murkwater Depths. (Underwater).",
       "Place Traps in Murkwater Shallows. (Underwater).",
@@ -51,7 +51,7 @@
   },
   "Moonglade Mastery": {
     "maxShards": 96,
-    "statBoostName": "Grants +100 ☘ Fig Fortune and +100 ☘ Mangrove Fortune.",
+    "maxStatBoost": "Grants +100 ☘ Fig Fortune and +100 ☘ Mangrove Fortune.",
     "wayToObtain": [
       "Catch with Lasso.",
       "Place Traps in Galatea. (On Land).",
@@ -62,7 +62,7 @@
   },
   "Fisherman": {
     "maxShards": 96,
-    "statBoostName": "Has a +10% chance not to consume any bait.",
+    "maxStatBoost": "Has a +10% chance not to consume any bait.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Night Squid while using Salts."
@@ -72,7 +72,7 @@
   },
   "Experience": {
     "maxShards": 96,
-    "statBoostName": "Grants +100% more experience orbs from killing mobs.",
+    "maxStatBoost": "Grants +100% more experience orbs from killing mobs.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Lapis Zombie while using Salts."
@@ -82,7 +82,7 @@
   },
   "Mossy Box": {
     "maxShards": 96,
-    "statBoostName": "Grants +50 ☘ Block Fortune.",
+    "maxStatBoost": "Grants +50 ☘ Block Fortune.",
     "wayToObtain": [
       "Hunted on Galatea."
     ],
@@ -91,7 +91,7 @@
   },
   "Forest Fishing": {
     "maxShards": 96,
-    "statBoostName": "Grants +30 ☂ Fishing Speed while on Foraging Islands.",
+    "maxStatBoost": "Grants +30 ☂ Fishing Speed while on Foraging Islands.",
     "wayToObtain": [
       "Place Traps in Murkwater Depths. (Underwater).",
       "Place Traps in Murkwater Shallows. (Underwater).",
@@ -103,7 +103,7 @@
   },
   "Skeletal Ruler": {
     "maxShards": 96,
-    "statBoostName": "Increase damage to Skeletal creatures by +30%.",
+    "maxStatBoost": "Increase damage to Skeletal creatures by +30%.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Chillshot or Chillblade while using Salts.",
@@ -114,7 +114,7 @@
   },
   "Monster Bait": {
     "maxShards": 96,
-    "statBoostName": "Grants +5 α Sea Creature Chance.",
+    "maxStatBoost": "Grants +5 α Sea Creature Chance.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Sea Archer while using Salts."
@@ -124,7 +124,7 @@
   },
   "Arthropod Resistance": {
     "maxShards": 96,
-    "statBoostName": "Grants +40 ❈ Defense against Spiders.",
+    "maxStatBoost": "Grants +40 ❈ Defense against Spiders.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Voracious Spider while using Salts."
@@ -134,7 +134,7 @@
   },
   "Happy Box": {
     "maxShards": 96,
-    "statBoostName": "Grants a +20% chance to obtain an extra Winter Gift when finding one.",
+    "maxStatBoost": "Grants a +20% chance to obtain an extra Winter Gift when finding one.",
     "wayToObtain": [
       "Fusing Shulker Family with Common or higher."
     ],
@@ -143,7 +143,7 @@
   },
   "Berry Eater": {
     "maxShards": 96,
-    "statBoostName": "Grants a +100% chance to drop double berries.",
+    "maxStatBoost": "Grants a +100% chance to drop double berries.",
     "wayToObtain": [
       "Place Traps in Galatea. (On Land).",
       "Catch with a Fishing Net.",
@@ -154,7 +154,7 @@
   },
   "Undead Resistance": {
     "maxShards": 96,
-    "statBoostName": "Grants +40 ❈ Defense against Undead Monsters.",
+    "maxStatBoost": "Grants +40 ❈ Defense against Undead Monsters.",
     "wayToObtain": [
       "Kill Super Tank Zombie, Crypt Tank Zombie, Master Crypt Tank Zombie, or Master Super Tank Zombie while using Salts."
     ],
@@ -163,7 +163,7 @@
   },
   "Fig Sharpening": {
     "maxShards": 96,
-    "statBoostName": "Grants +50 ∮ Sweep towards Fig Trees.",
+    "maxStatBoost": "Grants +50 ∮ Sweep towards Fig Trees.",
     "wayToObtain": [
       "Purchased in Agatha\u0027s Shop."
     ],
@@ -172,7 +172,7 @@
   },
   "Unity is Strength": {
     "maxShards": 96,
-    "statBoostName": "Grants +0.2 ∮ Sweep for each unique Common Attribute you own.",
+    "maxStatBoost": "Grants +0.2 ∮ Sweep for each unique Common Attribute you own.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Tadgang while using Salts.",
@@ -184,7 +184,7 @@
   },
   "Ender Resistance": {
     "maxShards": 96,
-    "statBoostName": "Grants +40 ❈ Defense against mobs in The End.",
+    "maxStatBoost": "Grants +40 ❈ Defense against mobs in The End.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Zealot while using Salts."
@@ -194,7 +194,7 @@
   },
   "Bucket Lover": {
     "maxShards": 96,
-    "statBoostName": "You have a +50% chance to gain extra Chums.",
+    "maxStatBoost": "You have a +50% chance to gain extra Chums.",
     "wayToObtain": [
       "Place Traps in Murkwater Depths. (Underwater).",
       "Catch with a Fishing Net.",
@@ -205,7 +205,7 @@
   },
   "Tree Lurker": {
     "maxShards": 96,
-    "statBoostName": "Increases the odds of finding monsters from Tree Gifts by +50%.",
+    "maxStatBoost": "Increases the odds of finding monsters from Tree Gifts by +50%.",
     "wayToObtain": [
       "Fusing Bird Family with Combat Category."
     ],
@@ -214,7 +214,7 @@
   },
   "Visitor Bait": {
     "maxShards": 96,
-    "statBoostName": "Garden Visitors arrive +10% faster.",
+    "maxStatBoost": "Garden Visitors arrive +10% faster.",
     "wayToObtain": [
       "Place Traps in Galatea. (On Land).",
       "Found in Grass on Galatea."
@@ -224,7 +224,7 @@
   },
   "Midas Touch": {
     "maxShards": 96,
-    "statBoostName": "Grants +10 Coins per kill.",
+    "maxStatBoost": "Grants +10 Coins per kill.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Golden Ghoul while using Salts."
@@ -234,7 +234,7 @@
   },
   "Forest Strength": {
     "maxShards": 96,
-    "statBoostName": "Grants +50 ❁ Strength while on Foraging Islands.",
+    "maxStatBoost": "Grants +50 ❁ Strength while on Foraging Islands.",
     "wayToObtain": [
       "Place Traps in Murkwater Depths.",
       "Place Traps in Murkwater",
@@ -245,7 +245,7 @@
   },
   "Blazing Resistance": {
     "maxShards": 96,
-    "statBoostName": "Grants +40 ❈ Defense against mobs while in the Crimson Isle.",
+    "maxStatBoost": "Grants +40 ❈ Defense against mobs while in the Crimson Isle.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Bezal while using Salts.",
@@ -256,7 +256,7 @@
   },
   "Yog Membrane": {
     "maxShards": 96,
-    "statBoostName": "Grants +10 ♨ Heat Resistance.",
+    "maxStatBoost": "Grants +10 ♨ Heat Resistance.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Yog while using Salts."
@@ -266,7 +266,7 @@
   },
   "Owl Friend": {
     "maxShards": 96,
-    "statBoostName": "Your pets gain +20% more Pet EXP from Fann.",
+    "maxStatBoost": "Your pets gain +20% more Pet EXP from Fann.",
     "wayToObtain": [
       "Fusing Bird Family with Common or higher."
     ],
@@ -275,7 +275,7 @@
   },
   "Decent Karma": {
     "maxShards": 96,
-    "statBoostName": "Grants +20 ☘ Hunter Fortune towards COMMON Attributes.",
+    "maxStatBoost": "Grants +20 ☘ Hunter Fortune towards COMMON Attributes.",
     "wayToObtain": [
       "Fusing Axolotl Family with Water Category."
     ],
@@ -284,7 +284,7 @@
   },
   "Rotten Pickaxe": {
     "maxShards": 96,
-    "statBoostName": "Grants +30 ⸕ Mining Speed.",
+    "maxStatBoost": "Grants +30 ⸕ Mining Speed.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Miner Zombie while using Salts."
@@ -294,7 +294,7 @@
   },
   "Wood Elemental": {
     "maxShards": 64,
-    "statBoostName": "Grants +20 ❤ Health.",
+    "maxStatBoost": "Grants +20 ❤ Health.",
     "wayToObtain": [
       "Fusing Forest Category and Uncommon with Rare or higher."
     ],
@@ -303,7 +303,7 @@
   },
   "Water Elemental": {
     "maxShards": 64,
-    "statBoostName": "Grants +10 ✎ Intelligence.",
+    "maxStatBoost": "Grants +10 ✎ Intelligence.",
     "wayToObtain": [
       "Fusing Water Category and Uncommon with Rare or higher."
     ],
@@ -312,7 +312,7 @@
   },
   "Stone Elemental": {
     "maxShards": 64,
-    "statBoostName": "Grants +10 ❁ Strength.",
+    "maxStatBoost": "Grants +10 ❁ Strength.",
     "wayToObtain": [
       "Fusing Combat Category and Uncommon with Rare or higher."
     ],
@@ -321,7 +321,7 @@
   },
   "Fig Collector": {
     "maxShards": 64,
-    "statBoostName": "Grants +10 ☘ Fig Fortune for every digit in your Fig Log collection. (Max 10M collection)",
+    "maxStatBoost": "Grants +10 ☘ Fig Fortune for every digit in your Fig Log collection. (Max 10M collection)",
     "wayToObtain": [
       "Unlocked from Fig Collection VII."
     ],
@@ -330,7 +330,7 @@
   },
   "Gold Bait": {
     "maxShards": 64,
-    "statBoostName": "The cooldown of Golden Fish is reduced by +5m 0s.",
+    "maxStatBoost": "The cooldown of Golden Fish is reduced by +5m 0s.",
     "wayToObtain": [
       "Fusing Golden Ghoul Shard with Water Category."
     ],
@@ -339,7 +339,7 @@
   },
   "Mountain Climber": {
     "maxShards": 64,
-    "statBoostName": "Commissions grant +10% more HOTM Exp.",
+    "maxStatBoost": "Commissions grant +10% more HOTM Exp.",
     "wayToObtain": [
       "Fusing Cave Dweller Family with Combat Category."
     ],
@@ -348,7 +348,7 @@
   },
   "Bigger Box": {
     "maxShards": 64,
-    "statBoostName": "Grants a +50% chance to find an extra item in Treasure Chests and the Crystal Nucleus.",
+    "maxStatBoost": "Grants a +50% chance to find an extra item in Treasure Chests and the Crystal Nucleus.",
     "wayToObtain": [
       "Fusing Shulker Family with Cave Dweller Family."
     ],
@@ -357,7 +357,7 @@
   },
   "Good Karma": {
     "maxShards": 64,
-    "statBoostName": "Grants +20 ☘ Hunter Fortune towards UNCOMMON Attributes.",
+    "maxStatBoost": "Grants +20 ☘ Hunter Fortune towards UNCOMMON Attributes.",
     "wayToObtain": [
       "Fusing Lizard Family with Water Category."
     ],
@@ -366,7 +366,7 @@
   },
   "Echo of Boxes": {
     "maxShards": 64,
-    "statBoostName": "Your \"Box\" Attributes are +20% stronger.",
+    "maxStatBoost": "Your \"Box\" Attributes are +20% stronger.",
     "wayToObtain": [
       "Fusing Shulker Family with Reptile Family."
     ],
@@ -375,7 +375,7 @@
   },
   "Pest Luck": {
     "maxShards": 64,
-    "statBoostName": "Gain a +20% chance to obtain rare loot from Pests.",
+    "maxStatBoost": "Gain a +20% chance to obtain rare loot from Pests.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Catch with Lasso.",
@@ -386,7 +386,7 @@
   },
   "Forest Trap": {
     "maxShards": 64,
-    "statBoostName": "Forest Shards get caught by Traps +10% faster.",
+    "maxStatBoost": "Forest Shards get caught by Traps +10% faster.",
     "wayToObtain": [
       "Fusing Tadgang Shard with Forest Category.",
       "Place Traps in Galatea. (On Land).",
@@ -397,7 +397,7 @@
   },
   "Mana Steal": {
     "maxShards": 64,
-    "statBoostName": "Regain +5 of your maximum Mana every time you hit a monster.",
+    "maxStatBoost": "Regain +5 of your maximum Mana every time you hit a monster.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Rain Slime or Toxic Rain Slime while using Salts."
@@ -407,7 +407,7 @@
   },
   "Dragon Shortbow Improvement": {
     "maxShards": 64,
-    "statBoostName": "Your Dragon Shortbow gains +20% more ❁ Damage while in The End.",
+    "maxStatBoost": "Your Dragon Shortbow gains +20% more ❁ Damage while in The End.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Seer while using Salts."
@@ -417,7 +417,7 @@
   },
   "Mangrove Sharpening": {
     "maxShards": 64,
-    "statBoostName": "Grants +100 ∮ Sweep towards Mangrove Trees.",
+    "maxStatBoost": "Grants +100 ∮ Sweep towards Mangrove Trees.",
     "wayToObtain": [
       "Purchased in Agatha\u0027s Shop."
     ],
@@ -426,7 +426,7 @@
   },
   "Speed": {
     "maxShards": 64,
-    "statBoostName": "Grants +10 ✦ Speed.",
+    "maxStatBoost": "Grants +10 ✦ Speed.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Obsidian Defender while using Salts."
@@ -436,7 +436,7 @@
   },
   "Lost and Found": {
     "maxShards": 64,
-    "statBoostName": "Grants a +1% chance to find a Wet Book when fishing a Treasure.",
+    "maxStatBoost": "Grants a +1% chance to find a Wet Book when fishing a Treasure.",
     "wayToObtain": [
       "Place Traps in Murkwater Depths. (Underwater).",
       "Place Traps in Murkwater Shallows. (Underwater).",
@@ -448,7 +448,7 @@
   },
   "Hunter\u0027s Fang": {
     "maxShards": 64,
-    "statBoostName": "Your Hunting Axes gain +10% more stats from the weapon they hold.",
+    "maxStatBoost": "Your Hunting Axes gain +10% more stats from the weapon they hold.",
     "wayToObtain": [
       "Fusing Cuboa Shard with Combat Category.",
       "Purchased from Kiara\u0027s Shop."
@@ -458,7 +458,7 @@
   },
   "Insect Power": {
     "maxShards": 64,
-    "statBoostName": "Your Vacuum deals +50% extra ❁ Damage.",
+    "maxStatBoost": "Your Vacuum deals +50% extra ❁ Damage.",
     "wayToObtain": [
       "Fusing Pest Shard with Pest Shard."
     ],
@@ -467,7 +467,7 @@
   },
   "Undead Ruler": {
     "maxShards": 64,
-    "statBoostName": "Grants +30% more ❁ Damage against Undead Monsters.",
+    "maxStatBoost": "Grants +30% more ❁ Damage against Undead Monsters.",
     "wayToObtain": [
       "Kill Zombie Knight, Zombie Soldier, Zombie Commander, or Zombie Lord while using Salts."
     ],
@@ -476,7 +476,7 @@
   },
   "Strong Arms": {
     "maxShards": 64,
-    "statBoostName": "Your Axe gains +30 ∮ Sweep on throws.",
+    "maxStatBoost": "Your Axe gains +30 ∮ Sweep on throws.",
     "wayToObtain": [
       "Place Traps in Tranquility Sanctum. (Spring or Summer).",
       "Obtained from Pandas on Galatea."
@@ -486,7 +486,7 @@
   },
   "Life Recovery": {
     "maxShards": 64,
-    "statBoostName": "Heals for +1% of your max health each time you kill a mob.",
+    "maxStatBoost": "Heals for +1% of your max health each time you kill a mob.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Revenant Sycophant while using Salts."
@@ -496,7 +496,7 @@
   },
   "Mangrove Collector": {
     "maxShards": 64,
-    "statBoostName": "Grants +10 ☘ Mangrove Fortune for every digit in your Mangrove Log collection. (Max 10M collection)",
+    "maxStatBoost": "Grants +10 ☘ Mangrove Fortune for every digit in your Mangrove Log collection. (Max 10M collection)",
     "wayToObtain": [
       "Unlocked from Mangrove Collection VI."
     ],
@@ -505,7 +505,7 @@
   },
   "Spirit Axe": {
     "maxShards": 64,
-    "statBoostName": "Your Axes deal +20% extra ❁ Damage to creatures on Galatea.",
+    "maxStatBoost": "Your Axes deal +20% extra ❁ Damage to creatures on Galatea.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Ent while using Salts.",
@@ -517,7 +517,7 @@
   },
   "Combo": {
     "maxShards": 64,
-    "statBoostName": "Deal +1% more ❁ Damage per Grandma Wolf pet combo. (Max 50 combo)",
+    "maxStatBoost": "Deal +1% more ❁ Damage per Grandma Wolf pet combo. (Max 50 combo)",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Soul of the Alpha while using Salts.",
@@ -528,7 +528,7 @@
   },
   "Strong Legs": {
     "maxShards": 64,
-    "statBoostName": "Your Axe gains +30 ∮ Sweep on melee.",
+    "maxStatBoost": "Your Axe gains +30 ∮ Sweep on melee.",
     "wayToObtain": [
       "Place Traps in Tranquility Sanctum. (Autumn or Winter).",
       "Obtained from Pandas on Galatea."
@@ -538,7 +538,7 @@
   },
   "Infection": {
     "maxShards": 64,
-    "statBoostName": "Increases the chance of catching corrupted Sea Creatures by +2%.",
+    "maxStatBoost": "Increases the chance of catching corrupted Sea Creatures by +2%.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Magma Slug while using Salts.",
@@ -550,7 +550,7 @@
   },
   "Arthropod Ruler": {
     "maxShards": 64,
-    "statBoostName": "Grants +30% more ❁ Damage against Spiders.",
+    "maxStatBoost": "Grants +30% more ❁ Damage against Spiders.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Flaming Spider while using Salts."
@@ -560,7 +560,7 @@
   },
   "Kat\u0027s Favorite": {
     "maxShards": 64,
-    "statBoostName": "Kat takes +10% less time to upgrade a Pet.",
+    "maxStatBoost": "Kat takes +10% less time to upgrade a Pet.",
     "wayToObtain": [
       "Fusing Bird Family with Uncommon or higher."
     ],
@@ -569,7 +569,7 @@
   },
   "Ender Ruler": {
     "maxShards": 64,
-    "statBoostName": "Grants +30% more ❁ Damage against Ender Creatures.",
+    "maxStatBoost": "Grants +30% more ❁ Damage against Ender Creatures.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Zealot Bruiser while using Salts."
@@ -579,7 +579,7 @@
   },
   "Magmatic Ruler": {
     "maxShards": 64,
-    "statBoostName": "Grants +30% more ❁ Damage against Lava Sea Creatures.",
+    "maxStatBoost": "Grants +30% more ❁ Damage against Lava Sea Creatures.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Strider Surfer or Strider while using Salts.",
@@ -590,7 +590,7 @@
   },
   "Battle Frog": {
     "maxShards": 64,
-    "statBoostName": "Your Frog Pet gains +30 ❁ Strength.",
+    "maxStatBoost": "Your Frog Pet gains +30 ❁ Strength.",
     "wayToObtain": [
       "Fusing Frog Family with Combat Category."
     ],
@@ -599,7 +599,7 @@
   },
   "Infiltration": {
     "maxShards": 64,
-    "statBoostName": "Grants +30 ☘ Farming Fortune if your Garden Plot currently has a Pest in it.",
+    "maxStatBoost": "Grants +30 ☘ Farming Fortune if your Garden Plot currently has a Pest in it.",
     "wayToObtain": [
       "Fusing Bug Family with Praying Mantis Shard."
     ],
@@ -608,7 +608,7 @@
   },
   "Forest Elemental": {
     "maxShards": 48,
-    "statBoostName": "Grants +20 ❤ Health.",
+    "maxStatBoost": "Grants +20 ❤ Health.",
     "wayToObtain": [
       "Fusing Forest Category and Rare with Epic or higher."
     ],
@@ -617,7 +617,7 @@
   },
   "Torrent Elemental": {
     "maxShards": 48,
-    "statBoostName": "Grants +10 ✎ Intelligence.",
+    "maxStatBoost": "Grants +10 ✎ Intelligence.",
     "wayToObtain": [
       "Fusing Water Category and Rare with Epic or higher."
     ],
@@ -626,7 +626,7 @@
   },
   "Lightning Elemental": {
     "maxShards": 48,
-    "statBoostName": "Grants +10 ❁ Strength.",
+    "maxStatBoost": "Grants +10 ❁ Strength.",
     "wayToObtain": [
       "Fusing Combat Category and Rare with Epic or higher."
     ],
@@ -635,7 +635,7 @@
   },
   "Animal Expertise": {
     "maxShards": 48,
-    "statBoostName": "Grants +100 ☘ Foraging Fortune.",
+    "maxStatBoost": "Grants +100 ☘ Foraging Fortune.",
     "wayToObtain": [
       "Fusing Panda Family with Uncommon or higher."
     ],
@@ -644,7 +644,7 @@
   },
   "Frog Legs": {
     "maxShards": 48,
-    "statBoostName": "Frogs have a +100% chance to jump 1 less time.",
+    "maxStatBoost": "Frogs have a +100% chance to jump 1 less time.",
     "wayToObtain": [
       "Fusing Frog Family with Forest Category and Uncommon or higher."
     ],
@@ -653,7 +653,7 @@
   },
   "Essence of Ice": {
     "maxShards": 48,
-    "statBoostName": "Gain +10% more Ice Essence.",
+    "maxStatBoost": "Gain +10% more Ice Essence.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Glacite Walker while using Salts."
@@ -663,7 +663,7 @@
   },
   "Beacon Zealot": {
     "maxShards": 48,
-    "statBoostName": "",
+    "maxStatBoost": "",
     "wayToObtain": [
       "Obtained by Tuning the Moonglade Beacon."
     ],
@@ -672,7 +672,7 @@
   },
   "Great Karma": {
     "maxShards": 48,
-    "statBoostName": "Grants +10 ☘ Hunter Fortune towards RARE Attributes.",
+    "maxStatBoost": "Grants +10 ☘ Hunter Fortune towards RARE Attributes.",
     "wayToObtain": [
       "Fusing Lizard Family with Water Category and Uncommon or higher."
     ],
@@ -681,7 +681,7 @@
   },
   "Hunter\u0027s Pressure": {
     "maxShards": 48,
-    "statBoostName": "Your Black Holes capture creatures +20% faster.",
+    "maxStatBoost": "Your Black Holes capture creatures +20% faster.",
     "wayToObtain": [
       "Fusing Viper Shard with Combat Category and Uncommon or higher."
     ],
@@ -690,7 +690,7 @@
   },
   "Fancy Visit": {
     "maxShards": 48,
-    "statBoostName": "RARE and above Garden Visitors have a +10% higher chance to arrive.",
+    "maxStatBoost": "RARE and above Garden Visitors have a +10% higher chance to arrive.",
     "wayToObtain": [
       "Place Traps in Galatea. (On Land).",
       "Found in Grass on Galatea."
@@ -700,7 +700,7 @@
   },
   "Moonglade Serendipity": {
     "maxShards": 48,
-    "statBoostName": "Increases the odds of finding rare items in Tree Gifts at Moonglade Marsh by +20%.",
+    "maxStatBoost": "Increases the odds of finding rare items in Tree Gifts at Moonglade Marsh by +20%.",
     "wayToObtain": [
       "Place Traps in Murkwater Depths. (Underwater).",
       "Place Traps in Murkwater Shallows. (Underwater).",
@@ -711,7 +711,7 @@
   },
   "Catacombs Box": {
     "maxShards": 48,
-    "statBoostName": "Increases the quality of boss rewards in The Catacombs by +10.",
+    "maxStatBoost": "Increases the quality of boss rewards in The Catacombs by +10.",
     "wayToObtain": [
       "Fusing Shulker Family with Wither Shard."
     ],
@@ -720,7 +720,7 @@
   },
   "Bone Font": {
     "maxShards": 48,
-    "statBoostName": "Grants a +20% extra chance of finding Level 6+ books or higher in Superpairs.",
+    "maxStatBoost": "Grants a +20% extra chance of finding Level 6+ books or higher in Superpairs.",
     "wayToObtain": [
       "Fusing Lapis Zombie Shard with Rare or higher."
     ],
@@ -729,7 +729,7 @@
   },
   "Crop Bug": {
     "maxShards": 48,
-    "statBoostName": "Increased the odds of finding a Cropie, Squash or Fermento by +20%.",
+    "maxStatBoost": "Increased the odds of finding a Cropie, Squash or Fermento by +20%.",
     "wayToObtain": [
       "Fusing Invisibug and Termite Shards with Forest Category."
     ],
@@ -738,7 +738,7 @@
   },
   "Humanoid Ruler": {
     "maxShards": 48,
-    "statBoostName": "Grants +30% more ❁ Damage against Humanoid Creatures.",
+    "maxStatBoost": "Grants +30% more ❁ Damage against Humanoid Creatures.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Seacurse, Hydrospear, or Tidetot while using Salts.",
@@ -749,7 +749,7 @@
   },
   "Atomized Mithril": {
     "maxShards": 48,
-    "statBoostName": "Gain +10% extra Mithril Powder.",
+    "maxStatBoost": "Gain +10% extra Mithril Powder.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Star Sentry while using Salts."
@@ -759,7 +759,7 @@
   },
   "Kuudra\u0027s Box": {
     "maxShards": 48,
-    "statBoostName": "Gives +50% chance to have an extra Kuudra Teeth in the Paid Reward Chest.",
+    "maxStatBoost": "Gives +50% chance to have an extra Kuudra Teeth in the Paid Reward Chest.",
     "wayToObtain": [
       "Fusing Shulker Family with Demon Family."
     ],
@@ -768,7 +768,7 @@
   },
   "Dwarven Serendipity": {
     "maxShards": 48,
-    "statBoostName": "Increases the chance to find Golden and Diamond Goblins by +100%.",
+    "maxStatBoost": "Increases the chance to find Golden and Diamond Goblins by +100%.",
     "wayToObtain": [
       "Place Traps in Dwarven Mines. (Underwater).",
       "Caught by Fishing in Dwarven Mines."
@@ -778,7 +778,7 @@
   },
   "Essence of Arthropods": {
     "maxShards": 48,
-    "statBoostName": "Gain +10% more Spider Essence.",
+    "maxStatBoost": "Gain +10% more Spider Essence.",
     "wayToObtain": [
       "Kill Arachne while using Salts."
     ],
@@ -787,7 +787,7 @@
   },
   "Cookie Eater": {
     "maxShards": 48,
-    "statBoostName": "Gain +50% of your Booster Cookie Bits up front.",
+    "maxStatBoost": "Gain +50% of your Booster Cookie Bits up front.",
     "wayToObtain": [
       "Purchased in the Bits Shop."
     ],
@@ -796,7 +796,7 @@
   },
   "Essence of Unliving": {
     "maxShards": 48,
-    "statBoostName": "Gain +10% more Undead Essence.",
+    "maxStatBoost": "Gain +10% more Undead Essence.",
     "wayToObtain": [
       "Dropped by Revenant Horror."
     ],
@@ -805,7 +805,7 @@
   },
   "Crystal Serendipity": {
     "maxShards": 48,
-    "statBoostName": "Grants a +20% chance to double any loot from Crystal Hollows Treasure Chests.",
+    "maxStatBoost": "Grants a +20% chance to double any loot from Crystal Hollows Treasure Chests.",
     "wayToObtain": [
       "Place Traps in Crystal Hollows. (Underwater).",
       "Caught by Fishing in Crystal Hollows."
@@ -815,7 +815,7 @@
   },
   "Deadeye": {
     "maxShards": 48,
-    "statBoostName": "Increases damage from ranged weapons by +25%.",
+    "maxStatBoost": "Increases damage from ranged weapons by +25%.",
     "wayToObtain": [
       "Fusing Lapis Skeleton Shard with Rare or higher.",
       "Kill Skeletor while using Salts."
@@ -825,7 +825,7 @@
   },
   "Atomized Crystals": {
     "maxShards": 48,
-    "statBoostName": "Gain +10% extra Gemstone Powder.",
+    "maxStatBoost": "Gain +10% extra Gemstone Powder.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Thyst while using Salts.",
@@ -836,7 +836,7 @@
   },
   "Quartz Speed": {
     "maxShards": 48,
-    "statBoostName": "⸕ Mining Speed from events is increased by +100%.",
+    "maxStatBoost": "⸕ Mining Speed from events is increased by +100%.",
     "wayToObtain": [
       "Fusing Troglobyte Shard with Cave Dweller Family or Abyssal Lanternfish Shard."
     ],
@@ -845,7 +845,7 @@
   },
   "Accessory Size": {
     "maxShards": 48,
-    "statBoostName": "Grants +10 extra Accessory Bag slots.",
+    "maxStatBoost": "Grants +10 extra Accessory Bag slots.",
     "wayToObtain": [
       "Fusing Shulker Family and Rare or higher with Rare or higher."
     ],
@@ -854,7 +854,7 @@
   },
   "Winter\u0027s Serendipity": {
     "maxShards": 48,
-    "statBoostName": "Increases the odds of finding rare items in Winter Gifts by +20%.",
+    "maxStatBoost": "Increases the odds of finding rare items in Winter Gifts by +20%.",
     "wayToObtain": [
       "Place Traps in Jerry\u0027s Workshop. (Underwater)."
     ],
@@ -863,7 +863,7 @@
   },
   "Lifeline": {
     "maxShards": 48,
-    "statBoostName": "When under 20% maximum HP, your ❁ Damage and ❈ Defense increase by +25%.",
+    "maxStatBoost": "When under 20% maximum HP, your ❁ Damage and ❈ Defense increase by +25%.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Kada Knight while using Salts.",
@@ -874,7 +874,7 @@
   },
   "Rabbit Crew": {
     "maxShards": 48,
-    "statBoostName": "Your Chocolate Factory gains +20 more Chocolate per second.",
+    "maxStatBoost": "Your Chocolate Factory gains +20 more Chocolate per second.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Carrot King while using Salts."
@@ -884,7 +884,7 @@
   },
   "Breeze": {
     "maxShards": 48,
-    "statBoostName": "When you haven\u0027t been damaged in the last 5s or more, your mana costs are decreased by +10%.",
+    "maxStatBoost": "When you haven\u0027t been damaged in the last 5s or more, your mana costs are decreased by +10%.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Wither Spectre while using Salts.",
@@ -895,7 +895,7 @@
   },
   "Ignition": {
     "maxShards": 48,
-    "statBoostName": "Increases the duration of fire damage that you inflict on enemies by +300%.",
+    "maxStatBoost": "Increases the duration of fire damage that you inflict on enemies by +300%.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Matcho while using Salts.",
@@ -906,7 +906,7 @@
   },
   "Pretty Clothes": {
     "maxShards": 48,
-    "statBoostName": "Gain +10% more Copper from Garden Visitors.",
+    "maxStatBoost": "Gain +10% more Copper from Garden Visitors.",
     "wayToObtain": [
       "Fusing Cropeetle Shard with Bug Family."
     ],
@@ -915,7 +915,7 @@
   },
   "Extreme Pressure": {
     "maxShards": 48,
-    "statBoostName": "Grants +50 ❍ Pressure Resistance.",
+    "maxStatBoost": "Grants +50 ❍ Pressure Resistance.",
     "wayToObtain": [
       "Place Traps in Squid Cave. (Underwater).",
       "Catch with a Fishing Net."
@@ -925,7 +925,7 @@
   },
   "Pure Reptile": {
     "maxShards": 48,
-    "statBoostName": "Grants a +20% chance to double shards from a Reptile Fusion.",
+    "maxStatBoost": "Grants a +20% chance to double shards from a Reptile Fusion.",
     "wayToObtain": [
       "Purchased from Kiara\u0027s Shop."
     ],
@@ -934,7 +934,7 @@
   },
   "Berry Enjoyer": {
     "maxShards": 48,
-    "statBoostName": "Berries have a +100% chance to grant you double points in Starlyn Contests.",
+    "maxStatBoost": "Berries have a +100% chance to grant you double points in Starlyn Contests.",
     "wayToObtain": [
       "Fusing Frog Family with Forest Category and Rare or higher."
     ],
@@ -943,7 +943,7 @@
   },
   "Essence of the Forest": {
     "maxShards": 48,
-    "statBoostName": "Gain +10% more Forest Essence.",
+    "maxStatBoost": "Gain +10% more Forest Essence.",
     "wayToObtain": [
       "Fusing Phanpyre and Phanflare Shards with Rare or higher.",
       "Catch with Pocket Black Hole.",
@@ -957,7 +957,7 @@
   },
   "Deep Diving": {
     "maxShards": 48,
-    "statBoostName": "Grants +50 ⚶ Respiration.",
+    "maxStatBoost": "Grants +50 ⚶ Respiration.",
     "wayToObtain": [
       "Place Traps in Murkwater Depths. (Underwater).",
       "Catch with a Fishing Net."
@@ -967,7 +967,7 @@
   },
   "Atomized Glacite": {
     "maxShards": 48,
-    "statBoostName": "Gain +10% extra Glacite Powder.",
+    "maxStatBoost": "Gain +10% extra Glacite Powder.",
     "wayToObtain": [
       "Fusing Quartzfang Shard with Cave Dweller Family or Silentdepth Shard."
     ],
@@ -976,7 +976,7 @@
   },
   "Fungy Luck": {
     "maxShards": 48,
-    "statBoostName": "Gain a +100% chance to gain an additional Chisel charge upon starting the Fossil Excavator.",
+    "maxStatBoost": "Gain a +100% chance to gain an additional Chisel charge upon starting the Fossil Excavator.",
     "wayToObtain": [
       "Fusing Cave Dweller Family with Forest Category and Epic or higher."
     ],
@@ -985,7 +985,7 @@
   },
   "Eelastic": {
     "maxShards": 48,
-    "statBoostName": "Increase Pull by +10 when using your Fishing Nets.",
+    "maxStatBoost": "Increase Pull by +10 when using your Fishing Nets.",
     "wayToObtain": [
       "Purchased from Kiara\u0027s Shop.",
       "Caught by Fishing in Moonglade Marsh."
@@ -995,7 +995,7 @@
   },
   "Hunter\u0027s Grasp": {
     "maxShards": 48,
-    "statBoostName": "Your Black Holes have +10% less chance to release the creatures.",
+    "maxStatBoost": "Your Black Holes have +10% less chance to release the creatures.",
     "wayToObtain": [
       "Fusing Python Shard with Combat Category and Uncommon or higher."
     ],
@@ -1004,7 +1004,7 @@
   },
   "Blazing Fortune": {
     "maxShards": 48,
-    "statBoostName": "Grants +10 ✯ Magic Find on Lava Sea Creatures.",
+    "maxStatBoost": "Grants +10 ✯ Magic Find on Lava Sea Creatures.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Lava Flame while using Salts.",
@@ -1016,7 +1016,7 @@
   },
   "Essence of Dragons": {
     "maxShards": 48,
-    "statBoostName": "Gain +10% more Dragon Essence.",
+    "maxStatBoost": "Gain +10% more Dragon Essence.",
     "wayToObtain": [
       "Dropped by Dragons on The End."
     ],
@@ -1025,7 +1025,7 @@
   },
   "Battle Experience": {
     "maxShards": 48,
-    "statBoostName": "Pets gain +10% more EXP from Combat.",
+    "maxStatBoost": "Pets gain +10% more EXP from Combat.",
     "wayToObtain": [
       "Fusing Bird Family with Rare or higher."
     ],
@@ -1034,7 +1034,7 @@
   },
   "Crimson Serendipity": {
     "maxShards": 48,
-    "statBoostName": "Increase the odds of finding a Vanquisher by +20%.",
+    "maxStatBoost": "Increase the odds of finding a Vanquisher by +20%.",
     "wayToObtain": [
       "Place Traps in Crimson Isle. (Under lava).",
       "Caught by Fishing in Crimson Isle."
@@ -1044,7 +1044,7 @@
   },
   "Essence of Wither": {
     "maxShards": 48,
-    "statBoostName": "Gain +10% more Wither Essence.",
+    "maxStatBoost": "Gain +10% more Wither Essence.",
     "wayToObtain": [
       "Obtained from Catacombs Floor VII and Master Catacombs Floor VII."
     ],
@@ -1053,7 +1053,7 @@
   },
   "Echo of Sharpening": {
     "maxShards": 48,
-    "statBoostName": "Your Sharpening Attributes are +20% stronger.",
+    "maxStatBoost": "Your Sharpening Attributes are +20% stronger.",
     "wayToObtain": [
       "Purchased from Kiara\u0027s Shop."
     ],
@@ -1062,7 +1062,7 @@
   },
   "Earth Elemental": {
     "maxShards": 32,
-    "statBoostName": "Grants +20 ❤ Health.",
+    "maxStatBoost": "Grants +20 ❤ Health.",
     "wayToObtain": [
       "Fusing Forest Category and Epic with Legendary or higher."
     ],
@@ -1071,7 +1071,7 @@
   },
   "Frost Elemental": {
     "maxShards": 32,
-    "statBoostName": "Grants +10 ✎ Intelligence.",
+    "maxStatBoost": "Grants +10 ✎ Intelligence.",
     "wayToObtain": [
       "Fusing Water Category and Epic with Legendary or higher."
     ],
@@ -1080,7 +1080,7 @@
   },
   "Wind Elemental": {
     "maxShards": 32,
-    "statBoostName": "Grants +10 ❁ Strength.",
+    "maxStatBoost": "Grants +10 ❁ Strength.",
     "wayToObtain": [
       "Fusing Combat Category and Epic with Legendary or higher."
     ],
@@ -1089,7 +1089,7 @@
   },
   "Foraging Wisdom": {
     "maxShards": 32,
-    "statBoostName": "Grants +5 ☯ Foraging Wisdom.",
+    "maxStatBoost": "Grants +5 ☯ Foraging Wisdom.",
     "wayToObtain": [
       "Fusing Panda Family with Rare or higher."
     ],
@@ -1098,7 +1098,7 @@
   },
   "Excellent Karma": {
     "maxShards": 32,
-    "statBoostName": "Grants +10 ☘ Hunter Fortune towards EPIC Attributes.",
+    "maxStatBoost": "Grants +10 ☘ Hunter Fortune towards EPIC Attributes.",
     "wayToObtain": [
       "Fusing Lizard Family with Water Category and Rare or higher."
     ],
@@ -1107,7 +1107,7 @@
   },
   "Echo of Resistance": {
     "maxShards": 32,
-    "statBoostName": "Your Resistance Attributes are +20% stronger.",
+    "maxStatBoost": "Your Resistance Attributes are +20% stronger.",
     "wayToObtain": [
       "Fusing Crocodile Shard with Combat Category and Rare or higher."
     ],
@@ -1116,7 +1116,7 @@
   },
   "Berry Mogul": {
     "maxShards": 32,
-    "statBoostName": "Your Salts last +10% longer.",
+    "maxStatBoost": "Your Salts last +10% longer.",
     "wayToObtain": [
       "Fusing Bullfrog Shard with Forest Category and Rare or higher."
     ],
@@ -1125,7 +1125,7 @@
   },
   "Hunter\u0027s Suppress": {
     "maxShards": 32,
-    "statBoostName": "Lassos deplete Stamina +20% faster.",
+    "maxStatBoost": "Lassos deplete Stamina +20% faster.",
     "wayToObtain": [
       "Fusing King Cobra Shard with Combat Category and Rare or higher."
     ],
@@ -1134,7 +1134,7 @@
   },
   "Echo of Atomized": {
     "maxShards": 32,
-    "statBoostName": "Your Atomized Attributes are +20% stronger.",
+    "maxStatBoost": "Your Atomized Attributes are +20% stronger.",
     "wayToObtain": [
       "Fusing Gecko Shard with Forest Category and Rare or higher."
     ],
@@ -1143,7 +1143,7 @@
   },
   "Lucky Rod": {
     "maxShards": 32,
-    "statBoostName": "Fish Treasure Shards are +10% easier to find.",
+    "maxStatBoost": "Fish Treasure Shards are +10% easier to find.",
     "wayToObtain": [
       "Fusing Eel Shard with Water Category and Rare or higher."
     ],
@@ -1152,7 +1152,7 @@
   },
   "Dominance": {
     "maxShards": 32,
-    "statBoostName": "Gain +15% more ❁ Damage when at full health.",
+    "maxStatBoost": "Gain +15% more ❁ Damage when at full health.",
     "wayToObtain": [
       "Obtained from Catacombs Floor IV."
     ],
@@ -1161,7 +1161,7 @@
   },
   "Lunar Power": {
     "maxShards": 32,
-    "statBoostName": "Grants +50 ☘ Farming Fortune during the Night.",
+    "maxStatBoost": "Grants +50 ☘ Farming Fortune during the Night.",
     "wayToObtain": [
       "Fusing Ladybug Shard with Bug Family and Rare or higher."
     ],
@@ -1170,7 +1170,7 @@
   },
   "Trophy Hunter": {
     "maxShards": 32,
-    "statBoostName": "Grants +20 ♔ Trophy Fish Chance.",
+    "maxStatBoost": "Grants +20 ♔ Trophy Fish Chance.",
     "wayToObtain": [
       "Fusing Eel Shard with Moray Eel Shard.",
       "Fusing Moray Eel Shard with Firefly Shards.",
@@ -1183,7 +1183,7 @@
   },
   "Deep Technique": {
     "maxShards": 32,
-    "statBoostName": "Each block you mine has a +10% chance to grant 1 extra ✧ Pristine for that block.",
+    "maxStatBoost": "Each block you mine has a +10% chance to grant 1 extra ✧ Pristine for that block.",
     "wayToObtain": [
       "Kill Bal while using Salts."
     ],
@@ -1192,7 +1192,7 @@
   },
   "Sack Size": {
     "maxShards": 32,
-    "statBoostName": "Your sacks can hold +10% more items.",
+    "maxStatBoost": "Your sacks can hold +10% more items.",
     "wayToObtain": [
       "Fusing Shulker Family and Rare or higher with Epic or higher."
     ],
@@ -1201,7 +1201,7 @@
   },
   "Fishing Speed": {
     "maxShards": 32,
-    "statBoostName": "Grants +30 ☂ Fishing Speed.",
+    "maxStatBoost": "Grants +30 ☂ Fishing Speed.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Water Hydra while using Salts."
@@ -1211,7 +1211,7 @@
   },
   "Blazing": {
     "maxShards": 32,
-    "statBoostName": "Grants +30% more ❁ Damage against mobs while in the Crimson Isle.",
+    "maxStatBoost": "Grants +30% more ❁ Damage against mobs while in the Crimson Isle.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Flare while using Salts.",
@@ -1222,7 +1222,7 @@
   },
   "Sea Wisdom": {
     "maxShards": 32,
-    "statBoostName": "Grants +5 ☯ Fishing Wisdom.",
+    "maxStatBoost": "Grants +5 ☯ Fishing Wisdom.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill The Sea Emperor while using Salts."
@@ -1232,7 +1232,7 @@
   },
   "Reborn": {
     "maxShards": 32,
-    "statBoostName": "Killing a Prince has a +100% chance to add 1 Bonus Score to your Dungeon Run.",
+    "maxStatBoost": "Killing a Prince has a +100% chance to add 1 Bonus Score to your Dungeon Run.",
     "wayToObtain": [
       "Kill Prince Bernhard, Prince Christian, Prince Pieter, Prince Nicholas, Prince Alexander, Prince Marius, Prince Valentin, or Prince Friedrich while using Salts."
     ],
@@ -1241,7 +1241,7 @@
   },
   "Echo of Essence": {
     "maxShards": 32,
-    "statBoostName": "Your Essence Attributes are +20% stronger.",
+    "maxStatBoost": "Your Essence Attributes are +20% stronger.",
     "wayToObtain": [
       "Fusing Iguana Shard with Forest Category and Rare or higher."
     ],
@@ -1250,7 +1250,7 @@
   },
   "Faker": {
     "maxShards": 32,
-    "statBoostName": "Dungeon Blessings are +10% stronger on you.",
+    "maxStatBoost": "Dungeon Blessings are +10% stronger on you.",
     "wayToObtain": [
       "Kill Mimic while using Salts."
     ],
@@ -1259,7 +1259,7 @@
   },
   "Shell": {
     "maxShards": 32,
-    "statBoostName": "Gain +100% Regular Knockback Resistance.",
+    "maxStatBoost": "Gain +100% Regular Knockback Resistance.",
     "wayToObtain": [
       "Place Traps in Murkwater Depths. (Underwater).",
       "Catch with a Fishing Net."
@@ -1269,7 +1269,7 @@
   },
   "Warrior": {
     "maxShards": 32,
-    "statBoostName": "Increases melee damage dealt by +25%.",
+    "maxStatBoost": "Increases melee damage dealt by +25%.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Barbarian Duke X while using Salts.",
@@ -1280,7 +1280,7 @@
   },
   "Why Not More": {
     "maxShards": 32,
-    "statBoostName": "Your pet\u0027s EXP Share grants +10% more EXP.",
+    "maxStatBoost": "Your pet\u0027s EXP Share grants +10% more EXP.",
     "wayToObtain": [
       "Fusing Bird Family with Epic or higher."
     ],
@@ -1289,7 +1289,7 @@
   },
   "Matriarch Cubs": {
     "maxShards": 32,
-    "statBoostName": "Grants a +20% chance to get a second Heavy Pearl.",
+    "maxStatBoost": "Grants a +20% chance to get a second Heavy Pearl.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Hellwisp while using Salts.",
@@ -1300,7 +1300,7 @@
   },
   "Echo of Ruler": {
     "maxShards": 32,
-    "statBoostName": "Your Ruler Attributes are +20% stronger.",
+    "maxStatBoost": "Your Ruler Attributes are +20% stronger.",
     "wayToObtain": [
       "Fusing Alligator Shard with Combat Category and Rare or higher."
     ],
@@ -1309,7 +1309,7 @@
   },
   "Solar Power": {
     "maxShards": 32,
-    "statBoostName": "Grants +50 ☘ Farming Fortune during the day.",
+    "maxStatBoost": "Grants +50 ☘ Farming Fortune during the day.",
     "wayToObtain": [
       "Fusing Lunar Moth Shard with Bezal, Cinderbat, Flare, Lava Flame, Fire Eel, Bal, and Flaming Spider Shards."
     ],
@@ -1318,7 +1318,7 @@
   },
   "Echo of Hunter": {
     "maxShards": 32,
-    "statBoostName": "Your Hunter Attributes are +20% stronger.",
+    "maxStatBoost": "Your Hunter Attributes are +20% stronger.",
     "wayToObtain": [
       "Fusing Moray Eel Shard with Water Category and Rare or higher."
     ],
@@ -1327,7 +1327,7 @@
   },
   "Veil": {
     "maxShards": 32,
-    "statBoostName": "Grants +10 ❂ True Defense.",
+    "maxStatBoost": "Grants +10 ❂ True Defense.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Ghost while using Salts."
@@ -1337,7 +1337,7 @@
   },
   "Mana Regeneration": {
     "maxShards": 32,
-    "statBoostName": "Increases your Mana regeneration by +10%.",
+    "maxStatBoost": "Increases your Mana regeneration by +10%.",
     "wayToObtain": [
       "Catch with Lasso.",
       "Kill Atom while using Salts.",
@@ -1350,7 +1350,7 @@
   },
   "Hunt Wisdom": {
     "maxShards": 32,
-    "statBoostName": "Grants +5 ☯ Hunting Wisdom.",
+    "maxStatBoost": "Grants +5 ☯ Hunting Wisdom.",
     "wayToObtain": [
       "Fusing Shellwise Shard with Water Category and Rare or higher."
     ],
@@ -1359,7 +1359,7 @@
   },
   "Cavern Wisdom": {
     "maxShards": 32,
-    "statBoostName": "Grants +5 ☯ Mining Wisdom.",
+    "maxStatBoost": "Grants +5 ☯ Mining Wisdom.",
     "wayToObtain": [
       "Fusing Cave Dweller Family and Rare or higher with Cave Dweller Family and Epic or higher."
     ],
@@ -1368,7 +1368,7 @@
   },
   "Garden Wisdom": {
     "maxShards": 32,
-    "statBoostName": "Grants +5 ☯ Farming Wisdom.",
+    "maxStatBoost": "Grants +5 ☯ Farming Wisdom.",
     "wayToObtain": [
       "Fusing Firefly Shard with Dragon Family."
     ],
@@ -1377,7 +1377,7 @@
   },
   "Shadow Elemental": {
     "maxShards": 24,
-    "statBoostName": "Grants +20 ❤ Health.",
+    "maxStatBoost": "Grants +20 ❤ Health.",
     "wayToObtain": [
       "Fusing Forest Category and Legendary with Elemental Family and Epic or higher."
     ],
@@ -1386,7 +1386,7 @@
   },
   "Snow Elemental": {
     "maxShards": 24,
-    "statBoostName": "Grants +10 ✎ Intelligence.",
+    "maxStatBoost": "Grants +10 ✎ Intelligence.",
     "wayToObtain": [
       "Fusing Water Category and Legendary with Elemental Family and Epic or higher."
     ],
@@ -1395,7 +1395,7 @@
   },
   "Storm Elemental": {
     "maxShards": 24,
-    "statBoostName": "Grants +10 ❁ Strength.",
+    "maxStatBoost": "Grants +10 ❁ Strength.",
     "wayToObtain": [
       "Fusing Combat Category and Legendary with Elemental Family and Epic or higher."
     ],
@@ -1404,7 +1404,7 @@
   },
   "Reptiloid": {
     "maxShards": 24,
-    "statBoostName": "",
+    "maxStatBoost": "",
     "wayToObtain": [
       "Found in Fig and Mangrove Tree Gifts."
     ],
@@ -1413,7 +1413,7 @@
   },
   "Echo of Echoes": {
     "maxShards": 24,
-    "statBoostName": "Your Echo Attributes are +50% stronger.",
+    "maxStatBoost": "Your Echo Attributes are +50% stronger.",
     "wayToObtain": [
       "Fusing Caiman Shard with Combat Category and Epic or higher."
     ],
@@ -1422,7 +1422,7 @@
   },
   "Echo of Wisdom": {
     "maxShards": 24,
-    "statBoostName": "Your Wisdom Attributes are +20% stronger.",
+    "maxStatBoost": "Your Wisdom Attributes are +20% stronger.",
     "wayToObtain": [
       "Fusing Komodo Dragon Shard with Forest Category and Epic or higher."
     ],
@@ -1431,7 +1431,7 @@
   },
   "Cloak Improvement": {
     "maxShards": 24,
-    "statBoostName": "Your David\u0027s Cloak gains +10 ❂ True Defense.",
+    "maxStatBoost": "Your David\u0027s Cloak gains +10 ❂ True Defense.",
     "wayToObtain": [
       "Fusing Leatherback Shard with Water Category and Epic or higher."
     ],
@@ -1440,7 +1440,7 @@
   },
   "Paramount Fortitude": {
     "maxShards": 24,
-    "statBoostName": "Your ❈ Defense is increased by +2%.",
+    "maxStatBoost": "Your ❈ Defense is increased by +2%.",
     "wayToObtain": [
       "Dropped by Endstone Protectors on The End."
     ],
@@ -1449,7 +1449,7 @@
   },
   "Charmed": {
     "maxShards": 24,
-    "statBoostName": "Grants a +0.5% chance to charm the Shard of monsters you kill.",
+    "maxStatBoost": "Grants a +0.5% chance to charm the Shard of monsters you kill.",
     "wayToObtain": [
       "Fusing Sea Serpent Shard with Water Category and Epic or higher."
     ],
@@ -1458,7 +1458,7 @@
   },
   "Book Wisdom": {
     "maxShards": 24,
-    "statBoostName": "Grants +5 ☯ Enchanting Wisdom.",
+    "maxStatBoost": "Grants +5 ☯ Enchanting Wisdom.",
     "wayToObtain": [
       "Fusing Lapis Skeleton Shard with Ghost Shard or Legendary or higher."
     ],
@@ -1467,7 +1467,7 @@
   },
   "Wart Eater": {
     "maxShards": 24,
-    "statBoostName": "Grants a +0.05% chance to obtain a Warty when breaking Nether Warts.",
+    "maxStatBoost": "Grants a +0.05% chance to obtain a Warty when breaking Nether Warts.",
     "wayToObtain": [
       "Fusing Dragonfly Shards with Legendary or higher."
     ],
@@ -1476,7 +1476,7 @@
   },
   "Payback": {
     "maxShards": 24,
-    "statBoostName": "When hit, your next hit deals +20% damage",
+    "maxStatBoost": "When hit, your next hit deals +20% damage",
     "wayToObtain": [
       "Catch with a Fishing Net.",
       "Place Traps in Murkwater Depths. (Underwater).",
@@ -1487,7 +1487,7 @@
   },
   "Vitality": {
     "maxShards": 24,
-    "statBoostName": "Grants +20 ♨ Vitality.",
+    "maxStatBoost": "Grants +20 ♨ Vitality.",
     "wayToObtain": [
       "Obtained from Kuudra."
     ],
@@ -1496,7 +1496,7 @@
   },
   "Maximal Torment": {
     "maxShards": 24,
-    "statBoostName": "Your ✎ Intelligence is increased by +1%.",
+    "maxStatBoost": "Your ✎ Intelligence is increased by +1%.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Taurus while using Salts.",
@@ -1507,7 +1507,7 @@
   },
   "Pity": {
     "maxShards": 24,
-    "statBoostName": "Your RNG Meter fills +10% faster.",
+    "maxStatBoost": "Your RNG Meter fills +10% faster.",
     "wayToObtain": [
       "Fusing Kraken Shard with Kraken Shard.",
       "Obtained from Kuudra."
@@ -1517,7 +1517,7 @@
   },
   "Star Bait": {
     "maxShards": 24,
-    "statBoostName": "Grants a +1% chance to fish a Shinyfish.",
+    "maxStatBoost": "Grants a +1% chance to fish a Shinyfish.",
     "wayToObtain": [
       "Fusing Kraken Shard with Water Category.",
       "Obtained from Kuudra."
@@ -1527,7 +1527,7 @@
   },
   "Help From Above": {
     "maxShards": 24,
-    "statBoostName": "Grants +12.5 ❣ Health Regen.",
+    "maxStatBoost": "Grants +12.5 ❣ Health Regen.",
     "wayToObtain": [
       "Caught using the Star Bait Attribute."
     ],
@@ -1536,7 +1536,7 @@
   },
   "Wings of Destiny": {
     "maxShards": 24,
-    "statBoostName": "Increases the odds of finding Ananke Feathers by +20%.",
+    "maxStatBoost": "Increases the odds of finding Ananke Feathers by +20%.",
     "wayToObtain": [
       "Fusing Kraken Shard with Bird Family.",
       "Obtained from Kuudra."
@@ -1546,7 +1546,7 @@
   },
   "Tuning Box": {
     "maxShards": 24,
-    "statBoostName": "Grants +10 Tuning Points.",
+    "maxStatBoost": "Grants +10 Tuning Points.",
     "wayToObtain": [
       "Fusing Shulker Family and Epic or higher with Legendary or higher."
     ],
@@ -1555,7 +1555,7 @@
   },
   "Crimson Hook": {
     "maxShards": 24,
-    "statBoostName": "Grants +5 ⚓ Double Hook Chance while on the Crimson Isle.",
+    "maxStatBoost": "Grants +5 ⚓ Double Hook Chance while on the Crimson Isle.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Lord Jawbus while using Salts.",
@@ -1566,7 +1566,7 @@
   },
   "Attack Speed": {
     "maxShards": 24,
-    "statBoostName": "Grants +10 ⚔ Bonus Attack Speed.",
+    "maxStatBoost": "Grants +10 ⚔ Bonus Attack Speed.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Kill Burningsoul Demon while using Salts.",
@@ -1577,7 +1577,7 @@
   },
   "Magic Find": {
     "maxShards": 24,
-    "statBoostName": "Grants +5 ✯ Magic Find.",
+    "maxStatBoost": "Grants +5 ✯ Magic Find.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
       "Catch with Lasso.",
@@ -1589,7 +1589,7 @@
   },
   "Hunter\u0027s Karma": {
     "maxShards": 24,
-    "statBoostName": "Grants +10 ☘ Hunter Fortune.",
+    "maxStatBoost": "Grants +10 ☘ Hunter Fortune.",
     "wayToObtain": [
       "Fusing Tortoise Shard with Water Category and Epic or higher."
     ],
@@ -1598,7 +1598,7 @@
   },
   "Elite": {
     "maxShards": 24,
-    "statBoostName": "Grants +30% more ❁ Damage against bosses and mini-bosses.",
+    "maxStatBoost": "Grants +30% more ❁ Damage against bosses and mini-bosses.",
     "wayToObtain": [
       "Obtained from Master Catacombs Floor VII."
     ],
@@ -1607,7 +1607,7 @@
   },
   "Pet Wisdom": {
     "maxShards": 24,
-    "statBoostName": "Grants +5 ☯ Taming Wisdom.",
+    "maxStatBoost": "Grants +5 ☯ Taming Wisdom.",
     "wayToObtain": [
       "Fusing Bird Family with Legendary or higher."
     ],
@@ -1616,7 +1616,7 @@
   },
   "Starborn": {
     "maxShards": 24,
-    "statBoostName": "The effect of Starborn Temples is +10% stronger on you.",
+    "maxStatBoost": "The effect of Starborn Temples is +10% stronger on you.",
     "wayToObtain": [
       "Fusing Shinyfish Shard with Shinyfish Shard."
     ],
@@ -1625,7 +1625,7 @@
   },
   "Veteran": {
     "maxShards": 24,
-    "statBoostName": "Grants +10 ☯ Combat Wisdom.",
+    "maxStatBoost": "Grants +10 ☯ Combat Wisdom.",
     "wayToObtain": [
       "Fusing Power Dragon Shard with any Shard.",
       "Obtained from Master Catacombs Floor VII."
@@ -1635,7 +1635,7 @@
   },
   "Rare Bird": {
     "maxShards": 24,
-    "statBoostName": "Grants +10 ♣ Pet Luck.",
+    "maxStatBoost": "Grants +10 ♣ Pet Luck.",
     "wayToObtain": [
       "Fusing Condor Shard with Legendary or higher."
     ],
@@ -1644,7 +1644,7 @@
   },
   "Unlimited Power": {
     "maxShards": 24,
-    "statBoostName": "Your ❁ Strength is increased by +1%.",
+    "maxStatBoost": "Your ❁ Strength is increased by +1%.",
     "wayToObtain": [
       "Fusing Power Dragon Shard with Kraken Shard."
     ],
@@ -1653,7 +1653,7 @@
   },
   "Unlimited Energy": {
     "maxShards": 24,
-    "statBoostName": "Your ☠ Crit Damage is increased by +1%.",
+    "maxStatBoost": "Your ☠ Crit Damage is increased by +1%.",
     "wayToObtain": [
       "Fusing Apex Dragon Shard with Kraken Shard."
     ],
@@ -1662,7 +1662,7 @@
   },
   "Ultimate DNA": {
     "maxShards": 24,
-    "statBoostName": "Grants +10 ☘ Mining Fortune, ☘ Farming Fortune, and ☘ Foraging Fortune.",
+    "maxStatBoost": "Grants +10 ☘ Mining Fortune, ☘ Farming Fortune, and ☘ Foraging Fortune.",
     "wayToObtain": [
       "Fusing Sun Fish Shard with Sun Fish Shard."
     ],
@@ -1671,7 +1671,7 @@
   },
   "Almighty": {
     "maxShards": 24,
-    "statBoostName": "Your \"Unlimited\" Attributes are +50% stronger.",
+    "maxStatBoost": "Your \"Unlimited\" Attributes are +50% stronger.",
     "wayToObtain": [
       "Fusing Etherdrake Shard with Jormung Shard."
     ],
@@ -1680,7 +1680,7 @@
   },
   "Echo of Elemental": {
     "maxShards": 24,
-    "statBoostName": "Buffs all other shards in the Elemental Family by +20%.",
+    "maxStatBoost": "Buffs all other shards in the Elemental Family by +20%.",
     "wayToObtain": [
       "Fusing Elemental Family and Legendary with Galaxy Fish Shard."
     ],
