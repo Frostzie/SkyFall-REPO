@@ -1070,7 +1070,7 @@
     "rarity": "EPIC"
   },
   "Frost Elemental": {
-    "maxShards": -1,
+    "maxShards": 32,
     "statBoostName": "Grants +10 ✎ Intelligence.",
     "wayToObtain": [
       "Fusing Water Category and Epic with Legendary or higher."
@@ -1151,7 +1151,7 @@
     "rarity": "EPIC"
   },
   "Dominance": {
-    "maxShards": -1,
+    "maxShards": 32,
     "statBoostName": "Gain +15% more ❁ Damage when at full health.",
     "wayToObtain": [
       "Obtained from Catacombs Floor IV."
@@ -1169,7 +1169,7 @@
     "rarity": "EPIC"
   },
   "Trophy Hunter": {
-    "maxShards": -1,
+    "maxShards": 32,
     "statBoostName": "Grants +20 ♔ Trophy Fish Chance.",
     "wayToObtain": [
       "Fusing Eel Shard with Moray Eel Shard.",
@@ -1200,7 +1200,7 @@
     "rarity": "EPIC"
   },
   "Fishing Speed": {
-    "maxShards": -1,
+    "maxShards": 32,
     "statBoostName": "Grants +30 ☂ Fishing Speed.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
@@ -1221,7 +1221,7 @@
     "rarity": "EPIC"
   },
   "Sea Wisdom": {
-    "maxShards": -1,
+    "maxShards": 32,
     "statBoostName": "Grants +5 ☯ Fishing Wisdom.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
@@ -1486,7 +1486,7 @@
     "rarity": "LEGENDARY"
   },
   "Vitality": {
-    "maxShards": -1,
+    "maxShards": 24,
     "statBoostName": "Grants +20 ♨ Vitality.",
     "wayToObtain": [
       "Obtained from Kuudra."
@@ -1554,7 +1554,7 @@
     "rarity": "LEGENDARY"
   },
   "Crimson Hook": {
-    "maxShards": -1,
+    "maxShards": 24,
     "statBoostName": "Grants +5 ⚓ Double Hook Chance while on the Crimson Isle.",
     "wayToObtain": [
       "Catch with Pocket Black Hole.",
