@@ -2039,7 +2039,7 @@
     "bazaarName": "Bogged Shard",
     "type": "Fishing",
     "rarity": "COMMON",
-    "maxShards": 96,
+    "maxShards": -1,
     "maxStatBoost": "§7Grants §3+5 §3α Sea Creature Chance§7.",
     "statBoost": "§7Grants §3+0.5 §3α Sea Creature Chance§7.",
     "wayToObtain": [
