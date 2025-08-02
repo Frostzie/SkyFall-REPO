@@ -1005,12 +1005,12 @@
     ]
   },
   "Quartz Speed": {
-    "bazaarName": "",
+    "bazaarName": "Quartzfang Shard",
     "type": "Mining",
     "rarity": "RARE",
     "maxShards": 48,
     "maxStatBoost": "§7§6⸕ Mining Speed §7from events is §7increased by §a+100%§7.",
-    "statBoost": "",
+    "statBoost": "§7§6⸕ Mining Speed §7from events is §7increased by §a+10%§7.",
     "wayToObtain": [
       "§7Fusing §aTroglobyte §7Shard §7with §7§aCave Dweller §7Family§7 or §9Abyssal §9Lanternfish §7Shard§7."
     ]
@@ -1232,12 +1232,12 @@
     ]
   },
   "Battle Experience": {
-    "bazaarName": "",
+    "bazaarName": "Falcon",
     "type": "Taming",
     "rarity": "RARE",
     "maxShards": 48,
     "maxStatBoost": "§7Pets gain §a+10%§7 more EXP from Combat.",
-    "statBoost": "",
+    "statBoost": "§7Pets gain §a+1%§7 more EXP from Combat.",
     "wayToObtain": [
       "§7Fusing §aBird §7Family §7with §9§lRare §7or §7higher§7."
     ]
@@ -1446,12 +1446,12 @@
     ]
   },
   "Fishing Speed": {
-    "bazaarName": "",
+    "bazaarName": "Water Hydra",
     "type": "Fishing",
     "rarity": "EPIC",
     "maxShards": 32,
     "maxStatBoost": "§7Grants §b+30 §b☂ Fishing Speed§7.",
-    "statBoost": "",
+    "statBoost": "§7Grants §b+3 §b☂ Fishing Speed§7.",
     "wayToObtain": [
       "§7Catch with §cPocket Black Hole§7.",
       "§7Kill Water Hydra §7while using §cSalts§7."
@@ -1887,12 +1887,12 @@
     ]
   },
   "Attack Speed": {
-    "bazaarName": "",
+    "bazaarName": "Burningsoul",
     "type": "Combat",
     "rarity": "LEGENDARY",
     "maxShards": 24,
     "maxStatBoost": "§7Grants §e+10 §e⚔ Bonus Attack Speed§7.",
-    "statBoost": "",
+    "statBoost": "§7Grants §e+1 §e⚔ Bonus Attack Speed§7.",
     "wayToObtain": [
       "§7Catch with §cPocket Black Hole§7.",
       "§7Kill Burningsoul Demon §7while using §7§cSalts§7.",
@@ -2033,6 +2033,41 @@
     "statBoost": "§7Buffs all other shards in the §7§aElemental §7Family by §a+2%§7.",
     "wayToObtain": [
       "§7Fusing §aElemental §7Family§7 and §7§6§lLegendary §7with §6Galaxy Fish §7Shard§7."
+    ]
+  },
+  "Creature Fisher": {
+    "bazaarName": "Bogged Shard",
+    "type": "Fishing",
+    "rarity": "COMMON",
+    "maxShards": -1,
+    "maxStatBoost": "§7Grants §3+5 §3α Sea Creature Chance§7.",
+    "statBoost": "§7Grants §3+0.5 §3α Sea Creature Chance§7.",
+    "wayToObtain": [
+      "§7Catch with §cPocket Black Hole§7.",
+      "§7Kill Bogged §7while using §cSalts§7."
+    ]
+  },
+  "Chop": {
+    "bazaarName": "Hummingbird Shard",
+    "type": "Foraging",
+    "rarity": "RARE",
+    "maxShards": 48,
+    "maxStatBoost": "§7Grants a §a+100% §7chance to Chop §aan §aextra log§7, on top of the ones you §7swept.",
+    "statBoost": "§7Grants a §a+10% §7chance to Chop §aan §aextra log§7, on top of the ones you §7swept.",
+    "wayToObtain": [
+      "§7Found in Fig and Mangrove §2Tree §2Gifts§7."
+    ]
+  },
+  "Bayou Biter": {
+    "bazaarName": "Titanoboa Shard",
+    "type": "Fishing",
+    "rarity": "LEGENDARY",
+    "maxShards": 24,
+    "maxStatBoost": "§7Grants §9+2.5 §9⚓ Double Hook Chance§7 §7while on the §2Backwater Bayou§7.",
+    "statBoost": "§7Grants §9+0.25 §9⚓ Double Hook Chance§7 §7while on the §2Backwater Bayou§7.",
+    "wayToObtain": [
+      "§7Catch with §cPocket Black Hole§7.",
+      "§7Kill Titanoboa §7while using §cSalts§7."
     ]
   }
 }
