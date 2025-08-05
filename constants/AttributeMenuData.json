@@ -480,8 +480,8 @@
     "type": "Combat",
     "rarity": "UNCOMMON",
     "maxShards": 64,
-    "maxStatBoost": "§7Regain §a+5 §7of your maximum Mana §7every time you hit a monster.",
-    "statBoost": "§7Regain §a+0.5 §7of your maximum Mana §7every time you hit a monster.",
+    "maxStatBoost": "§7Regain §a+5 §7Mana every time you hit a §7monster.",
+    "statBoost": "§7Regain §a+0.5 §7Mana every time you hit a §7monster.",
     "wayToObtain": [
       "§7Catch with §cPocket Black Hole§7.",
       "§7Kill Rain Slime§7 or §aToxic Rain Slime §a§7while using §cSalts§7."
@@ -822,8 +822,8 @@
     "type": "Hunting",
     "rarity": "RARE",
     "maxShards": 48,
-    "maxStatBoost": "§7Your Black Holes capture creatures §7§a+20% §7faster.",
-    "statBoost": "§7Your Black Holes capture creatures §7§a+2% §7faster.",
+    "maxStatBoost": "§7Your Black Holes capture creatures §7§a+50% §7faster.",
+    "statBoost": "§7Your Black Holes capture creatures §7§a+5% §7faster.",
     "wayToObtain": [
       "§7Fusing §aViper §7Shard §7with §cCombat §c§7Category§7 and §a§lUncommon §7or higher§7."
     ]
@@ -950,8 +950,8 @@
     "type": "Global",
     "rarity": "RARE",
     "maxShards": 48,
-    "maxStatBoost": "§7Gain §a+50%§7 of your Booster Cookie §7§bBits §7up front.",
-    "statBoost": "§7Gain §a+5%§7 of your Booster Cookie §bBits §b§7up front.",
+    "maxStatBoost": "§7Gain §a50%§7 of your Booster Cookie §7§bBits §7up front.",
+    "statBoost": "§7Gain §a5%§7 of your Booster Cookie §bBits §b§7up front.",
     "wayToObtain": [
       "§7Purchased in the §bBits §7Shop."
     ]
@@ -1878,8 +1878,8 @@
     "type": "Fishing",
     "rarity": "LEGENDARY",
     "maxShards": 24,
-    "maxStatBoost": "§7Grants §9+5 §9⚓ Double Hook Chance§7 §7while on the §cCrimson Isle§7.",
-    "statBoost": "§7Grants §9+0.5 §9⚓ Double Hook Chance§7 §7while on the §cCrimson Isle§7.",
+    "maxStatBoost": "§7Grants §9+2.5 §9⚓ Double Hook Chance§7 §7while on the §cCrimson Isle§7.",
+    "statBoost": "§7Grants §9+0.25 §9⚓ Double Hook Chance§7 §7while on the §cCrimson Isle§7.",
     "wayToObtain": [
       "§7Catch with §cPocket Black Hole§7.",
       "§7Kill Lord Jawbus §7while using §cSalts§7.",
@@ -2039,7 +2039,7 @@
     "bazaarName": "Bogged Shard",
     "type": "Fishing",
     "rarity": "COMMON",
-    "maxShards": 96,
+    "maxShards": -1,
     "maxStatBoost": "§7Grants §3+5 §3α Sea Creature Chance§7.",
     "statBoost": "§7Grants §3+0.5 §3α Sea Creature Chance§7.",
     "wayToObtain": [
