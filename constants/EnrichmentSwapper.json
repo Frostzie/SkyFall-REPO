@@ -1,0 +1,79 @@
+{
+  "Speed Enrichment": {
+    "icon": "✦",
+    "color": "§f",
+    "desc": "§7Enrich accessories with the power\",\n      \"§7of §f+1✦ Speed§7.\",\n      \"§7\",\n      \"§7§eClick to swap!",
+    "abilityEffectNumber": 1,
+    "abilityDesc": "§f+1✦ Speed"
+  },
+  "Intelligence Enrichment": {
+    "icon": "✎",
+    "color": "§b",
+    "desc": "§7Enrich accessories with the power\",\n      \"§7of §b+2✎ Intelligence§7.\",\n      \"§7\",\n      \"§7§eClick to swap!",
+    "abilityEffectNumber": 2,
+    "abilityDesc": "§b+2✎ Intelligence"
+  },
+  "Critical Damage Enrichment": {
+    "icon": "☠",
+    "color": "§9",
+    "desc": "§7Enrich accessories with the power\",\n      \"§7of §9+1☠ Crit Damage§7.\",\n      \"§7\",\n      \"§7§eClick to swap!",
+    "abilityEffectNumber": 1,
+    "abilityDesc": "§9+1☠ Crit Damage"
+  },
+  "Critical Chance Enrichment": {
+    "icon": "☣",
+    "color": "§9",
+    "desc": "§7Enrich accessories with the power\",\n      \"§7of §9+1☣ Crit Chance§7.\",\n      \"§7\",\n      \"§7§eClick to swap!",
+    "abilityEffectNumber": 1,
+    "abilityDesc": "§9+1☣ Crit Chance"
+  },
+  "Strength Enrichment": {
+    "icon": "❁",
+    "color": "§c",
+    "desc": "§7Enrich accessories with the power\",\n      \"§7of §c+1❁ Strength§7.\",\n      \"§7\",\n      \"§7§eClick to swap!",
+    "abilityEffectNumber": 1,
+    "abilityDesc": "§c+1❁ Strength"
+  },
+  "Defense Enrichment": {
+    "icon": "❈",
+    "color": "§a",
+    "desc": "§7Enrich accessories with the power\",\n      \"§7of §a+1❈ Defense§7.\",\n      \"§7\",\n      \"§7§eClick to swap!",
+    "abilityEffectNumber": 1,
+    "abilityDesc": "§a+1❈ Defense"
+  },
+  "Health Enrichment": {
+    "icon": "❤",
+    "color": "§c",
+    "desc": "§7Enrich accessories with the power\",\n      \"§7of §c+3❤ Health§7.\",\n      \"§7\",\n      \"§7§eClick to swap!",
+    "abilityEffectNumber": 3,
+    "abilityDesc": "§c+3❤ Health"
+  },
+  "Magic Find Enrichment": {
+    "icon": "✯",
+    "color": "§b",
+    "desc": "§7Enrich accessories with the power\",\n      \"§7of §b+0.5✯ Magic Find§7.\",\n      \"§7\",\n      \"§7§eClick to swap!",
+    "abilityEffectNumber": 0.5,
+    "abilityDesc": "§b+0.5✯ Magic Find"
+  },
+  "Ferocity Enrichment": {
+    "icon": "⫽",
+    "color": "§c",
+    "desc": "§7Enrich accessories with the power\",\n      \"§7of §c+0.3⫽ Ferocity§7.\",\n      \"§7\",\n      \"§7§eClick to swap!",
+    "abilityEffectNumber": 0.3,
+    "abilityDesc": "§c+0.3⫽ Ferocity"
+  },
+  "Sea Creature Chance Enrichment": {
+    "icon": "α",
+    "color": "§3",
+    "desc": "§7Enrich accessories with the power\",\n      \"§7of §3+0.3α Sea Creature Chance§7.\",\n      \"§7\",\n      \"§7§eClick to swap!",
+    "abilityEffectNumber": 0.3,
+    "abilityDesc": "§3+0.3α Sea Creature Chance"
+  },
+  "Attack Speed Enrichment": {
+    "icon": "⚔",
+    "color": "§e",
+    "desc": "§7Enrich accessories with the power\",\n      \"§7of §e+0.5⚔ Bonus Attack Speed§7.\",\n      \"§7\",\n      \"§7§eClick to swap!",
+    "abilityEffectNumber": 0.5,
+    "abilityDesc": "§e+0.5⚔ Bonus Attack Speed"
+  }
+}
